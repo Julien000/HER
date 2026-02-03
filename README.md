@@ -1,6 +1,6 @@
-# HES: Early Multi-Modal Fake News Detection
+# HES: Hierarchical Event-Scenario Semantic Modeling for Early Fake News Detection
 
-HES (Hierarchical Early-fusion System) is an advanced deep learning framework designed for early detection of fake news. The system integrates multiple modalities (text and images) to identify misinformation at an early stage, helping combat the spread of fake news across social media platforms.
+Detecting fake news in real-world settings is fundamentally challenged by unseen events, where shifts in topic, style, and modality undermine the generalization of existing models. Most approaches treat each event as isolated, ignoring latent semantic structures shared across them. In this work, we challenge this assumption and propose a framework that explicitly models both invariant cues of misinformation and context-dependent event semantics. By disentangling and dynamically integrating these two types of information, our method captures both transferable deception patterns and useful contextual signals from semantically related events. This design enables effective generalization across diverse scenarios without sacrificing specificity. Experiments on multiple benchmarks demonstrate consistent improvements in both unimodal and multimodal settings. Beyond performance, our approach offers a new perspective on event-level generalization, revealing that context, when structured appropriately, can be a strength rather than a source of noise..
 
 ## 🚀 Features
 
