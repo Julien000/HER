@@ -68,11 +68,8 @@ The system is organized as follows:
 src/
 ├── data/                  # Data loading and preprocessing
 ├── module/                # Model implementations
-│   ├── CompareModel/      # Comparison models (CLIP, DICE, etc.)
 │   ├── model/             # Main model implementations
 │   ├── loss/              # Loss functions
-│   ├── wrapper/           # Model wrappers
-│   └── ablation/          # Ablation study models
 ├── tools/                 # Utilities (metrics, preprocessing, etc.)
 ├── main.py               # Main entry point
 └── Inference.py          # Inference script
