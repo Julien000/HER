@@ -90,28 +90,12 @@ The framework includes comprehensive evaluation metrics:
 If you use this code in your research, please cite:
 
 ```
-@article{ma2025graphing,
+@article{
 }
 
-
 ```
 
-Other comparison models:
-```
-@article{liu2023robust,
-  title={Robust domain misinformation detection via multi-modal feature alignment},
-  author={Liu, Hui and Wang, Wenya and Sun, Hao and Rocha, Anderson and Li, Haoliang},
-  journal={IEEE Transactions on Information Forensics and Security},
-  volume={19},
-  pages={793--806},
-  year={2023},
-  publisher={IEEE}
-}
-```
 
 ## 🔐 License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
-
-## ✅ Acknowledgments
-We thank the researchers whose work made this repository possible, particularly the authors of the compared models (CLIP, DICE, EAAN, etc.) and the original papers referenced in this work.
